@@ -1,3 +1,5 @@
+#### Projet
+Conçu sous Visual Studio 2026 donc v145 et pas v143 comme sous VS2022
 #### Generateur-Login-SSL-SHA256
   1. Un salt aléatoire de 16 octets empêche les attaques par rainbow tables.
   2. PBKDF2-HMAC-SHA256, dérive une clé AES‑256 à partir du mot de passe.
